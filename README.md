@@ -1,6 +1,6 @@
 surf.learn
 
-#  Fast ML train, publish, subscribe pub/sub pipeline. Designed to address multivariant time-series data seasonality.
+#  Fast ML train, publish, subscribe pipeline. Designed to address multivariant time-series data seasonality.
 
 
 ![Stack-Ensemble-Models](https://user-images.githubusercontent.com/64109384/204010932-8c3380e0-dc6d-4407-814d-2095bb168f16.jpeg)
